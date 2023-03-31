@@ -1,0 +1,27 @@
+{
+  "name": "quicknode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apollo-client.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "chart.js": "^4.2.1",
+    "next": "13.2.4",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "18.2.0",
+    "streamr-client": "^8.1.0",
+    "streamr-client-react": "^3.0.0-hkt.1"
+  },
+  "devDependencies": {
+    "eslint": "8.4.1",
+    "eslint-config-next": "12.0.7",
+    "eslint-config-prettier": "^8.5.0",
+    "postcss": "^8.2.15",
+    "prettier": "^2.6.2"
+  }
+}
